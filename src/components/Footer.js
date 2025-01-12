@@ -6,8 +6,8 @@ const Footer = () => (
     <div className="contact">
       <p>Contact Us:</p>
       <ul>
-        <li>Email: <a href="mailto:norhan.habila@example.com">norhan.habila@gmail.com</a></li>
-        <li>Phone: <a href="tel:+1234567890">+20-1212028913</a></li>
+        <li>Email: <a href="mailto:norhan.habila@gmail.com">norhan.habila@gmail.com</a></li>
+        <li>Phone: <a href="tel:+20-01212028913">+20-1212028913</a></li>
         <li>
           Social Media:
           <a href="https://www.linkedin.com/in/norhan-habila-1742a6132/" target="_blank" rel="noopener noreferrer"> LinkedIn</a> | 
